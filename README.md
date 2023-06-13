@@ -1,5 +1,5 @@
 # getting-current-weather-by-city-name 
-Getting data using BeautifulSoup for data scrapping.
+Getting data using BeautifulSoup for data scrapping and other api key.
 
 Like Ouput:-👇🏻
 Enter the city name:Meerut
